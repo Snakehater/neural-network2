@@ -1,2 +1,1 @@
-cd /Desktop/NeuralNetwork/python/Snake/
-python3 Snake.py
+python3 NeuralNetwork.py
